@@ -223,10 +223,17 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Challenges in Sentiment Analysis](http://saifmohammad.com/WebDocs/sentiment-challenges.pdf). 2015.
 - [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c). July 2017
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
+- [Sentiment Analysis with Python (Part 1)Classifying IMDb Movie Reviews](https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184)
+- [Sentiment Analysis with Python (Part 2)Improving a Movie Review Sentiment Classifier](https://towardsdatascience.com/sentiment-analysis-with-python-part-2-4f71e7bde59a)
 - [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
+- [Another Twitter sentiment analysis with Python — Part 1](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
+- [Another Twitter sentiment analysis with Python-Part 2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
+- [Another Twitter sentiment analysis with Python — Part 3 (Zipf’s Law, data visualisation)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7)
+- [Another Twitter sentiment analysis with Python — Part 4 (Count vectorizer, confusion matrix)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5)
+- [
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
@@ -324,6 +331,13 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ## Online courses
 
+#### Learning - LinkedIn
+- [Learning: Become a Python Developer](https://www.linkedin.com/learning/paths/become-a-python-developer)
+- [Learning: Become an AI and Machine Learning Specialist: Part I](https://www.linkedin.com/learning/paths/become-an-ai-and-machine-learning-specialist-part-i)
+- [Learning: Become an AI and Machine Learning Specialist, Part II](https://www.linkedin.com/learning/paths/become-an-ai-and-machine-learning-specialist-part-ii)
+- [Learning: Become a Data Scientist](https://www.linkedin.com/learning/paths/become-a-data-scientist)
+- [Learning: Advance Your Skills as a Python Data Expert](https://www.linkedin.com/learning/paths/advance-your-skills-as-a-python-data-expert)
+
 #### Udemy
 - [Udemy: Deep Learning and NLP A-Z™: How to create a ChatBot](https://www.udemy.com/chatbot/)
 - [Udemy: Natural Language Processing with Deep Learning in Python](https://www.udemy.com/natural-language-processing-with-deep-learning-in-python/)
@@ -345,6 +359,15 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Coursera: Coursera: Clinical Natural Language Processing](https://www.coursera.org/learn/clinical-natural-language-processing)
 
 #### DataCamp
+- [DataCamp: Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [DataCamp: Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+- [DataCamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [DataCamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+- [DataCamp: Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+- [DataCamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [DataCamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [DataCamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+- [DataCamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
 - [DataCamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 - [DataCamp: Sentiment Analysis in R: The Tidy Way](https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way)
 - [DataCamp: Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words)
@@ -505,6 +528,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
+- [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 - [Lee's Similarity Data Sets](https://faculty.sites.uci.edu/mdlee/similarity-data/)
 - [Corpus of Presidential Speeches (CoPS) and a Clinton/Trump Corpus ](http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus)
 - [15 Best Chatbot Datasets for Machine Learning](https://gengo.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)
